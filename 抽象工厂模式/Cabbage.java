@@ -9,4 +9,5 @@ public class Cabbage extends Vegetables
     public void eat() {
         super.eat(this.name);
     }
+    
 }

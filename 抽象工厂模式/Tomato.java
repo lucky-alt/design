@@ -1,7 +1,6 @@
 public class Tomato extends Vegetables
 {
     private String name;
-
     public Tomato(String name) {
         this.name = name;
     }
@@ -9,4 +8,5 @@ public class Tomato extends Vegetables
     public void eat() {
         super.eat(this.name);
     }
+
 }

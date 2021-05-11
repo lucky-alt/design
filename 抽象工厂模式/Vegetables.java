@@ -4,4 +4,5 @@ public class Vegetables
         System.out.println("吃蔬菜");
     }
 
+    
 }

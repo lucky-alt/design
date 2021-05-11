@@ -8,6 +8,7 @@ public class main {
         AConFV aConFV = new AConFV();
         Fruit aFruit = aConFV.CreateF();
         Vegetables aVegetables = aConFV.CreateV();
+        
         BConFV bConFV = new BConFV();
         Fruit bFruit = bConFV.CreateF();
         Vegetables bVegetables = bConFV.CreateV();
@@ -16,4 +17,5 @@ public class main {
         bFruit.eat();
         bVegetables.eat();
     }
+
 }

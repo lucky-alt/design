@@ -6,4 +6,5 @@ public class Fruit{
      public void eat(String name) {
             System.out.println("吃"+name);
      }
+     
 }
